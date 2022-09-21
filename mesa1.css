@@ -1,0 +1,12 @@
+body{
+    background-color: darkgray;
+    color: aliceblue;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.produto{
+    display: flex;
+}
+
+

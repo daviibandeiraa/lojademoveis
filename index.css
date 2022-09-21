@@ -1,0 +1,32 @@
+
+
+body{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(37, 37, 37);
+    color: aliceblue;
+
+}
+
+img{
+    border-radius: 50%;
+    padding: 50px;
+}
+
+.container {
+    display: flex;
+    align-items: center;
+}
+
+
+
+body2{
+    
+    padding: 10px;
+
+}
+
+body3{
+    text-align: left;
+    padding: 10px;
+}

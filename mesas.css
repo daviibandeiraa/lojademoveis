@@ -1,0 +1,27 @@
+body{
+    background: rgb(87, 87, 87);
+    color: aliceblue;
+
+}
+
+.container{
+    text-align: center;
+
+}
+
+.mesatxt{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+.mesa1{
+    align-items: center;
+    display: left;
+    text-align: center;
+    
+}
+
+img{
+    border-radius: 30%;
+    padding: 20px;
+}
